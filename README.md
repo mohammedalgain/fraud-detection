@@ -1,4 +1,4 @@
-# Fraud Detection — PaySim Synthetic Financial Dataset
+# Fraud Detection PaySim Synthetic Financial Dataset
 
 A fraud-detection project on the [PaySim synthetic mobile money dataset](https://www.kaggle.com/datasets/ealaxi/paysim1) (~6.3M transactions, ~0.13% fraud), covering data cleaning, feature engineering, extreme class imbalance handling, and a comparison of three model types including a real investigation into a data-leakage red flag along the way.
 
